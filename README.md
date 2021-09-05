@@ -2,11 +2,11 @@
 
 <p>
   <a href="https://www.linkedin.com/in/hamza-dabaghi/">
-    <img  alt="Linkedin Profile" width="16px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
+    <img  alt="Linkedin Profile" width="24px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
   </a>
 
   <a href="https://github.com/HAMZADABAGHI">
-    <img  alt="Github Profile" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img  alt="Github Profile" width="24px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
   </a>
 </p>
   
