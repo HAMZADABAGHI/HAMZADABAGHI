@@ -1,6 +1,5 @@
 ### Hi 👋 there, I'm Hamza Dabaghi 👋
 
-Links <p>
   <a href="https://www.linkedin.com/in/hamza-dabaghi/">
     <img  alt="Linkedin Profile" width="24px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
   </a>
@@ -8,7 +7,6 @@ Links <p>
   <a href="https://github.com/HAMZADABAGHI">
     <img  alt="Github Profile" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
   </a>
-</p>
   
 ### Glad to see you here! 😍
 
