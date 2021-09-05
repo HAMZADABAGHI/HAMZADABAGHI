@@ -6,7 +6,7 @@
   </a>
 
   <a href="https://github.com/HAMZADABAGHI">
-    <img  alt="Github Profile" width="24px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+    <img  alt="Github Profile" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
   </a>
 </p>
   
