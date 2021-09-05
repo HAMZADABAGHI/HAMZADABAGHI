@@ -1,5 +1,5 @@
 ### Hi 👋 there, I'm Hamza Dabaghi 👋
-<samp>
+
   <a href="https://www.linkedin.com/in/hamza-dabaghi/">
     <img  alt="Linkedin Profile" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
@@ -7,8 +7,7 @@
   <a href="https://github.com/HAMZADABAGHI">
     <img  alt="Github Profile" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-</samp>
-
+  
 ### Glad to see you here! 😍
 
 I'm a future software engineer, with robust problem-solving skills and strong computer science knowledge basics.
