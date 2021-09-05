@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/hamza-dabaghi/">
-    <img  alt="Linkedin Profile" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img  alt="Linkedin Profile" width="16px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-1.png" />
   </a>
 
   <a href="https://github.com/HAMZADABAGHI">
