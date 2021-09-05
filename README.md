@@ -1,4 +1,4 @@
-### Hi 👋 there, I'm [Hamza Dabaghi] 👋
+### Hi 👋 there, I'm Hamza Dabaghi 👋
 
 <samp>
   <a href="https://www.linkedin.com/in/hamza-dabaghi/">
@@ -25,8 +25,9 @@ As long as you're on my profile, I invite you to take a look at the featured sec
 
 ### welcome again 😄
 
-<h2 align="center">🐦 Github Statistics </h2>
-<p align="center">
+### Github statistics
+<h2 >🐦 Github Statistics </h2>
+<p a>
 <img src="https://github-readme-stats.vercel.app/api?username=HAMZADABAGHI&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 </p>
 <br/>
