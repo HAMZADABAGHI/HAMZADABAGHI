@@ -20,6 +20,6 @@ As long as you're on my profile, I invite you to take a look at the featured sec
 
 <h2 >🐦 Github Statistics </h2>
 <p a>
-<img src="https://github-readme-stats.vercel.app/api?username=HAMZADABAGHI&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api?username=HAMZADABAGHI&show_icons=true&title_color=2e00b8&icon_color=ff1212&text_color=333333&bg_color=fffff">
 </p>
 <br/>
