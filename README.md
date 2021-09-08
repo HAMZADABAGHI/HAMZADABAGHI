@@ -2,7 +2,7 @@
 Glad to see you here! 😍
 
 I'm a future software engineer, with robust problem-solving skills and strong computer science knowledge basics.
-As long as you're on my profile, I invite you to take a look at the featured section on my linkedin profile where you might find some of my achievements, beautiful posts, and some projects as well.
+As long as you're on my profile, I invite you to take a look at the featured section on my linkedin profile where you might find some of my achievements, beautiful posts, and some projects previews as well.
 
 - 🔭 I’m currently working on a beautiful project that will be available soon.
 - 💬 Ask me about java and software development.
