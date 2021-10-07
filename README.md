@@ -6,9 +6,9 @@ As long as you're on my profile, I invite you to take a look at the featured sec
 
 - 🔭 I’m currently looking for an internship from February 2022.
 - 💬 Ask me about java and software development.
-- 📫 How to reach me : https://www.linkedin.com/in/hamza-dabaghi/
+- 📫 How to reach me :<a href="https://www.linkedin.com/in/hamza-dabaghi/" target="_blank" > Hamza Dabaghi </a>
 <h2 >🐦 Github Statistics </h2>
 <p a>
-<img src="https://github-readme-stats.vercel.app/api?username=HAMZADABAGHI&show_icons=true&title_color=2e00b8&icon_color=ff1212&text_color=333333&bg_color=fffff">
+<img src="https://github-readme-stats.vercel.app/api?username=HAMZADABAGHI&show_icons=true&theme=tokyonight">
 </p>
 <br/>
