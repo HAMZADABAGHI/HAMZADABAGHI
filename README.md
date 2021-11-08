@@ -9,6 +9,6 @@ As long as you're on my profile, I invite you to take a look at the featured sec
 - 📫 How to reach me :<a href="https://www.linkedin.com/in/hamzadabaghi/" target="_blank" > Hamza Dabaghi </a>
 <h2 >🐦 Github Statistics </h2>
 <p a>
-<img src="https://github-readme-stats.vercel.app/api?username=hamzadabaghi&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight">
 </p>
 <br/>
