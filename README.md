@@ -1,7 +1,7 @@
 ### Hi 👋 there, I'm Hamza Dabaghi 👋
 👋 Glad to see you here! 😍
 
-I'm a future software engineer.
+I'm a software developer.
 
 - 💬 Ask me about java and software development.
 - 📫 How to reach me :<a href="https://www.linkedin.com/in/hamzadabaghi/" target="_blank" > Hamza Dabaghi </a>
