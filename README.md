@@ -5,7 +5,7 @@
   </a>
 </h1>
    
-###  <p align="center"> <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me</p>
+###  <p align="center">About Me</p>
 <p align="center">
   <p align="center">Hi, I'm Hamza Dabaghi, Software Engineer from Morocco</p>
 
@@ -34,7 +34,7 @@
 
 <hr>
 
-<h2 >🐦 Github Statistics </h2>
+<h2  align="center">🐦 Github Statistics </h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hamzadabaghi&show_icons=true&theme=tokyonight">
 </p>
