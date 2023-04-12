@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hamzadabaghi/hamzadabaghi" alt="HalemoGPA">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hamzadabaghi/hamzadabaghi" alt="hamzadabaghi">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Hamza+Dabaghi;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
@@ -9,7 +9,7 @@
 <p align="center">
   <p align="center">Hi, I'm Hamza Dabaghi, Software Engineer from Morocco</p>
 
-  <p align="center">👨‍🎓 I'm currently woring as a Software Engineer at Leyton Morocco</p>
+  <p align="center">👨‍🎓 I'm currently working as a Full Stack Java Software Engineer at Leyton Morocco</p>
 
   <p align="center">💻 I love painting with code, Hardware and learning anything about them 😊</p>
 
