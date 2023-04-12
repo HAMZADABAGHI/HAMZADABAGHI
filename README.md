@@ -9,9 +9,9 @@
 <p align="center">
   <p align="center">Hi, I'm Hamza Dabaghi, Software Engineer from Morocco</p>
 
-  <p align="center">👨‍🎓 I'm currently working as a Full Stack Java Software Engineer at Leyton Morocco</p>
+  <p align="center">💻🎓 I'm currently working as a Full Stack Java Software Engineer at Leyton Morocco</p>
 
-  <p align="center">💻 I love painting with code, Hardware and learning anything about them 😊</p>
+  <p align="center">🎨 I love painting with code</p>
 
   <p align="center">🚀 Extremely motivated to develop my skills and evolve my professional career 😊</p>
 
